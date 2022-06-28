@@ -1,6 +1,15 @@
 # NetworkAnalysis
 
-This repository contains a collection of jupyter notebooks in python for network analysis.
+This repository contains a collection of jupyter notebooks in python for network analysis. 
+
+Useful tutorials online:
+- Exploring and Analyzing Network Data with Python by John R. Ladd, Jessica Otis, Christopher N. Warren, and Scott Weingart https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python (small size undirected graph)
+
+- https://coderzcolumn.com/tutorials/data-science/network-analysis-in-python-important-structures-and-bipartite-graphs-networkx#5 
+
+- https://ericmjl.github.io/Network-Analysis-Made-Simple/04-advanced/01-bipartite/ (especially for bipartite graphs)
+
+The documentation for the networkx package can be found here: https://networkx.org/documentation/stable/index.html.
 
 ### BipartiteNetwork
 
