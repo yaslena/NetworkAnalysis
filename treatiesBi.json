@@ -1264,6 +1264,26 @@
             "end_date": 1785,
             "year": 1784,
             "id": "T100"
+        },
+        {
+            "bipartite": 1,
+            "title": "Vertrag von Nertschinsk",
+            "dates": "1689",
+            "Treaty_Id": 101,
+            "node_type": "treaty",
+            "start_date": 1689,
+            "end_date": 1785,
+            "year": 1689,
+            "id": "T101"
+        },
+        {
+            "bipartite": 0,
+            "sides": "China",
+            "Side_Id": 19,
+            "node_type": "country",
+            "start_date": 1689,
+            "end_date": 1785,
+            "id": "C19"
         }
     ],
     "links": [
@@ -1982,6 +2002,13 @@
             "target": "T100"
         },
         {
+            "dates": "1689",
+            "start_date": 1689,
+            "end_date": 1785,
+            "source": "C2",
+            "target": "T101"
+        },
+        {
             "dates": "1522 XII 25_1523 I 4",
             "start_date": 1522,
             "end_date": 1785,
@@ -2673,6 +2700,13 @@
             "end_date": 1785,
             "source": "T99",
             "target": "C18"
+        },
+        {
+            "dates": "1689",
+            "start_date": 1689,
+            "end_date": 1785,
+            "source": "T101",
+            "target": "C19"
         }
     ]
 }
